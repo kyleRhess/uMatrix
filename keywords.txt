@@ -1,0 +1,35 @@
+#######################################
+# Syntax Coloring Map For uMatrix
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+uMatrix	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+initial			KEYWORD2
+refreshMatrix	KEYWORD2
+updateMatrixRow	KEYWORD2
+setBrightness	KEYWORD2
+setPixelState	KEYWORD2
+getPixelState	KEYWORD2
+clearAll		KEYWORD2
+allOn			KEYWORD2
+swapPixels		KEYWORD2
+drawChar		KEYWORD2
+drawRect		KEYWORD2
+offsetX			KEYWORD2
+offsetY			KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+NUM_ROWS	LITERAL1
+NUM_COLS	LITERAL1
+WORDSIZE	LITERAL1
