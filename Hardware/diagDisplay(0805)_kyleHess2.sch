@@ -1,0 +1,3206 @@
+EESchema Schematic File Version 4
+EELAYER 26 0
+EELAYER END
+$Descr User 14342 11151
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	8700 4500 8700 4300
+Wire Wire Line
+	8700 4300 8200 4300
+Wire Wire Line
+	8200 4300 8200 4500
+Wire Wire Line
+	8200 4300 7700 4300
+Wire Wire Line
+	7700 4300 7700 4500
+Wire Wire Line
+	7700 4300 7200 4300
+Wire Wire Line
+	7200 4300 7200 4500
+Wire Wire Line
+	7200 4300 6700 4300
+Wire Wire Line
+	6700 4300 6700 4500
+Wire Wire Line
+	6700 4300 6200 4300
+Wire Wire Line
+	6200 4300 6200 4500
+Wire Wire Line
+	6200 4300 5700 4300
+Wire Wire Line
+	5700 4300 5700 4500
+Wire Wire Line
+	5700 4300 5200 4300
+Wire Wire Line
+	5200 4300 5200 4500
+Wire Wire Line
+	13200 4500 13200 4300
+Wire Wire Line
+	13200 4300 12700 4300
+Wire Wire Line
+	12700 4300 12700 4500
+Wire Wire Line
+	12700 4300 12200 4300
+Wire Wire Line
+	12200 4300 12200 4500
+Wire Wire Line
+	12200 4300 11700 4300
+Wire Wire Line
+	11700 4300 11700 4500
+Wire Wire Line
+	11700 4300 11200 4300
+Wire Wire Line
+	11200 4300 11200 4500
+Wire Wire Line
+	11200 4300 10700 4300
+Wire Wire Line
+	10700 4300 10700 4500
+Wire Wire Line
+	10700 4300 10200 4300
+Wire Wire Line
+	10200 4300 10200 4500
+Wire Wire Line
+	10200 4300 9700 4300
+Wire Wire Line
+	9700 4300 9700 4500
+Wire Wire Line
+	8700 4300 9700 4300
+Wire Wire Line
+	3800 2200 5100 2200
+Wire Wire Line
+	5100 2200 5100 4300
+Wire Wire Line
+	5100 4300 5200 4300
+Connection ~ 8200 4300
+Connection ~ 7700 4300
+Connection ~ 7200 4300
+Connection ~ 6700 4300
+Connection ~ 6200 4300
+Connection ~ 5700 4300
+Connection ~ 12700 4300
+Connection ~ 12200 4300
+Connection ~ 11700 4300
+Connection ~ 11200 4300
+Connection ~ 10700 4300
+Connection ~ 10200 4300
+Connection ~ 9700 4300
+Connection ~ 8700 4300
+Connection ~ 5200 4300
+Wire Wire Line
+	5500 4100 5500 4500
+Wire Wire Line
+	5500 4500 5500 4900
+Wire Wire Line
+	5500 4900 5500 5300
+Wire Wire Line
+	5500 5300 5500 5700
+Wire Wire Line
+	5500 5700 5500 6100
+Wire Wire Line
+	5500 6100 5500 6500
+Wire Wire Line
+	5500 6500 5500 6900
+Wire Wire Line
+	6600 7500 5500 7500
+Wire Wire Line
+	5500 7500 5500 6900
+Connection ~ 5500 4500
+Connection ~ 5500 4900
+Connection ~ 5500 5300
+Connection ~ 5500 5700
+Connection ~ 5500 6100
+Connection ~ 5500 6500
+Connection ~ 5500 6900
+Wire Wire Line
+	6000 4100 6000 4500
+Wire Wire Line
+	6000 4500 6000 4900
+Wire Wire Line
+	6000 4900 6000 5300
+Wire Wire Line
+	6000 5300 6000 5700
+Wire Wire Line
+	6000 5700 6000 6100
+Wire Wire Line
+	6000 6100 6000 6500
+Wire Wire Line
+	6000 6500 6000 6900
+Wire Wire Line
+	6700 7500 6700 7400
+Wire Wire Line
+	6700 7400 6000 7400
+Wire Wire Line
+	6000 7400 6000 6900
+Connection ~ 6000 4500
+Connection ~ 6000 4900
+Connection ~ 6000 5300
+Connection ~ 6000 5700
+Connection ~ 6000 6100
+Connection ~ 6000 6500
+Connection ~ 6000 6900
+Wire Wire Line
+	6500 4100 6500 4500
+Wire Wire Line
+	6500 4500 6500 4900
+Wire Wire Line
+	6500 4900 6500 5300
+Wire Wire Line
+	6500 5300 6500 5700
+Wire Wire Line
+	6500 5700 6500 6100
+Wire Wire Line
+	6500 6100 6500 6500
+Wire Wire Line
+	6500 6500 6500 6900
+Wire Wire Line
+	6800 7500 6800 7300
+Wire Wire Line
+	6800 7300 6500 7300
+Wire Wire Line
+	6500 7300 6500 6900
+Connection ~ 6500 4500
+Connection ~ 6500 4900
+Connection ~ 6500 5300
+Connection ~ 6500 5700
+Connection ~ 6500 6100
+Connection ~ 6500 6500
+Connection ~ 6500 6900
+Wire Wire Line
+	7500 4100 7500 4500
+Wire Wire Line
+	7500 4500 7500 4900
+Wire Wire Line
+	7500 4900 7500 5300
+Wire Wire Line
+	7500 5300 7500 5700
+Wire Wire Line
+	7500 5700 7500 6100
+Wire Wire Line
+	7500 6100 7500 6500
+Wire Wire Line
+	7500 6500 7500 6900
+Wire Wire Line
+	7000 7500 7000 7100
+Wire Wire Line
+	7000 7100 7500 7100
+Wire Wire Line
+	7500 7100 7500 6900
+Connection ~ 7500 4500
+Connection ~ 7500 4900
+Connection ~ 7500 5300
+Connection ~ 7500 5700
+Connection ~ 7500 6100
+Connection ~ 7500 6500
+Connection ~ 7500 6900
+Wire Wire Line
+	8000 4100 8000 4500
+Wire Wire Line
+	8000 4500 8000 4900
+Wire Wire Line
+	8000 4900 8000 5300
+Wire Wire Line
+	8000 5300 8000 5700
+Wire Wire Line
+	8000 5700 8000 6100
+Wire Wire Line
+	8000 6100 8000 6500
+Wire Wire Line
+	8000 6500 8000 6900
+Wire Wire Line
+	7100 7500 7100 7200
+Wire Wire Line
+	7100 7200 8000 7200
+Wire Wire Line
+	8000 7200 8000 6900
+Connection ~ 8000 4500
+Connection ~ 8000 4900
+Connection ~ 8000 5300
+Connection ~ 8000 5700
+Connection ~ 8000 6100
+Connection ~ 8000 6500
+Connection ~ 8000 6900
+Wire Wire Line
+	8500 4100 8500 4500
+Wire Wire Line
+	8500 4500 8500 4900
+Wire Wire Line
+	8500 4900 8500 5300
+Wire Wire Line
+	8500 5300 8500 5700
+Wire Wire Line
+	8500 5700 8500 6100
+Wire Wire Line
+	8500 6100 8500 6500
+Wire Wire Line
+	8500 6500 8500 6900
+Wire Wire Line
+	7200 7500 7200 7300
+Wire Wire Line
+	7200 7300 8500 7300
+Wire Wire Line
+	8500 7300 8500 6900
+Connection ~ 8500 4500
+Connection ~ 8500 4900
+Connection ~ 8500 5300
+Connection ~ 8500 5700
+Connection ~ 8500 6100
+Connection ~ 8500 6500
+Connection ~ 8500 6900
+Wire Wire Line
+	9000 4100 9000 4500
+Wire Wire Line
+	9000 4500 9000 4900
+Wire Wire Line
+	9000 4900 9000 5300
+Wire Wire Line
+	9000 5300 9000 5700
+Wire Wire Line
+	9000 5700 9000 6100
+Wire Wire Line
+	9000 6100 9000 6500
+Wire Wire Line
+	9000 6500 9000 6900
+Wire Wire Line
+	7300 7500 7300 7400
+Wire Wire Line
+	7300 7400 9000 7400
+Wire Wire Line
+	9000 7400 9000 6900
+Connection ~ 9000 4500
+Connection ~ 9000 4900
+Connection ~ 9000 5300
+Connection ~ 9000 5700
+Connection ~ 9000 6100
+Connection ~ 9000 6500
+Connection ~ 9000 6900
+Wire Wire Line
+	13200 4100 13200 3900
+Wire Wire Line
+	13200 3900 12700 3900
+Wire Wire Line
+	12700 3900 12700 4100
+Wire Wire Line
+	12700 3900 12200 3900
+Wire Wire Line
+	12200 3900 12200 4100
+Wire Wire Line
+	12200 3900 11700 3900
+Wire Wire Line
+	11700 3900 11700 4100
+Wire Wire Line
+	11700 3900 11200 3900
+Wire Wire Line
+	11200 3900 11200 4100
+Wire Wire Line
+	11200 3900 10700 3900
+Wire Wire Line
+	10700 3900 10700 4100
+Wire Wire Line
+	10700 3900 10200 3900
+Wire Wire Line
+	10200 3900 10200 4100
+Wire Wire Line
+	10200 3900 9700 3900
+Wire Wire Line
+	9700 3900 9700 4100
+Wire Wire Line
+	8700 4100 8700 3900
+Wire Wire Line
+	8700 3900 8200 3900
+Wire Wire Line
+	8200 3900 8200 4100
+Wire Wire Line
+	8200 3900 7700 3900
+Wire Wire Line
+	7700 3900 7700 4100
+Wire Wire Line
+	7700 3900 7200 3900
+Wire Wire Line
+	7200 3900 7200 4100
+Wire Wire Line
+	7200 3900 6700 3900
+Wire Wire Line
+	6700 3900 6700 4100
+Wire Wire Line
+	6700 3900 6200 3900
+Wire Wire Line
+	6200 3900 6200 4100
+Wire Wire Line
+	6200 3900 5700 3900
+Wire Wire Line
+	5700 3900 5700 4100
+Wire Wire Line
+	5700 3900 5200 3900
+Wire Wire Line
+	5200 3900 5200 4100
+Wire Wire Line
+	9700 3900 8700 3900
+Wire Wire Line
+	3800 1300 5200 1300
+Wire Wire Line
+	5200 1300 5200 3900
+Connection ~ 12700 3900
+Connection ~ 12200 3900
+Connection ~ 11700 3900
+Connection ~ 11200 3900
+Connection ~ 10700 3900
+Connection ~ 10200 3900
+Connection ~ 9700 3900
+Connection ~ 8200 3900
+Connection ~ 7700 3900
+Connection ~ 7200 3900
+Connection ~ 6700 3900
+Connection ~ 6200 3900
+Connection ~ 5700 3900
+Connection ~ 8700 3900
+Connection ~ 5200 3900
+Wire Wire Line
+	13200 4900 13200 4700
+Wire Wire Line
+	13200 4700 12700 4700
+Wire Wire Line
+	12700 4700 12700 4900
+Wire Wire Line
+	12700 4700 12200 4700
+Wire Wire Line
+	12200 4700 12200 4900
+Wire Wire Line
+	12200 4700 11700 4700
+Wire Wire Line
+	11700 4700 11700 4900
+Wire Wire Line
+	11700 4700 11200 4700
+Wire Wire Line
+	11200 4700 11200 4900
+Wire Wire Line
+	11200 4700 10700 4700
+Wire Wire Line
+	10700 4700 10700 4900
+Wire Wire Line
+	10700 4700 10200 4700
+Wire Wire Line
+	10200 4700 10200 4900
+Wire Wire Line
+	10200 4700 9700 4700
+Wire Wire Line
+	9700 4700 9700 4900
+Wire Wire Line
+	8700 4900 8700 4700
+Wire Wire Line
+	8700 4700 8200 4700
+Wire Wire Line
+	8200 4700 8200 4900
+Wire Wire Line
+	8200 4700 7700 4700
+Wire Wire Line
+	7700 4700 7700 4900
+Wire Wire Line
+	7700 4700 7200 4700
+Wire Wire Line
+	7200 4700 7200 4900
+Wire Wire Line
+	7200 4700 6700 4700
+Wire Wire Line
+	6700 4700 6700 4900
+Wire Wire Line
+	6700 4700 6200 4700
+Wire Wire Line
+	6200 4700 6200 4900
+Wire Wire Line
+	6200 4700 5700 4700
+Wire Wire Line
+	5700 4700 5700 4900
+Wire Wire Line
+	5700 4700 5200 4700
+Wire Wire Line
+	5200 4700 5200 4900
+Wire Wire Line
+	9700 4700 8700 4700
+Wire Wire Line
+	3800 3100 5000 3100
+Wire Wire Line
+	5000 3100 5000 4700
+Wire Wire Line
+	5000 4700 5200 4700
+Connection ~ 12700 4700
+Connection ~ 12200 4700
+Connection ~ 11700 4700
+Connection ~ 11200 4700
+Connection ~ 10700 4700
+Connection ~ 10200 4700
+Connection ~ 9700 4700
+Connection ~ 8200 4700
+Connection ~ 7700 4700
+Connection ~ 7200 4700
+Connection ~ 6700 4700
+Connection ~ 6200 4700
+Connection ~ 5700 4700
+Connection ~ 8700 4700
+Connection ~ 5200 4700
+Wire Wire Line
+	13200 5300 13200 5100
+Wire Wire Line
+	13200 5100 12700 5100
+Wire Wire Line
+	12700 5100 12700 5300
+Wire Wire Line
+	12700 5100 12200 5100
+Wire Wire Line
+	12200 5100 12200 5300
+Wire Wire Line
+	12200 5100 11700 5100
+Wire Wire Line
+	11700 5100 11700 5300
+Wire Wire Line
+	11700 5100 11200 5100
+Wire Wire Line
+	11200 5100 11200 5300
+Wire Wire Line
+	11200 5100 10700 5100
+Wire Wire Line
+	10700 5100 10700 5300
+Wire Wire Line
+	10700 5100 10200 5100
+Wire Wire Line
+	10200 5100 10200 5300
+Wire Wire Line
+	10200 5100 9700 5100
+Wire Wire Line
+	9700 5100 9700 5300
+Wire Wire Line
+	8700 5300 8700 5100
+Wire Wire Line
+	8700 5100 8200 5100
+Wire Wire Line
+	8200 5100 8200 5300
+Wire Wire Line
+	8200 5100 7700 5100
+Wire Wire Line
+	7700 5100 7700 5300
+Wire Wire Line
+	7700 5100 7200 5100
+Wire Wire Line
+	7200 5100 7200 5300
+Wire Wire Line
+	7200 5100 6700 5100
+Wire Wire Line
+	6700 5100 6700 5300
+Wire Wire Line
+	6700 5100 6200 5100
+Wire Wire Line
+	6200 5100 6200 5300
+Wire Wire Line
+	6200 5100 5700 5100
+Wire Wire Line
+	5700 5100 5700 5300
+Wire Wire Line
+	5700 5100 5200 5100
+Wire Wire Line
+	5200 5100 5200 5300
+Wire Wire Line
+	9700 5100 8700 5100
+Wire Wire Line
+	3800 4000 4900 4000
+Wire Wire Line
+	4900 4000 4900 5100
+Wire Wire Line
+	4900 5100 5200 5100
+Connection ~ 12700 5100
+Connection ~ 12200 5100
+Connection ~ 11700 5100
+Connection ~ 11200 5100
+Connection ~ 10700 5100
+Connection ~ 10200 5100
+Connection ~ 9700 5100
+Connection ~ 8200 5100
+Connection ~ 7700 5100
+Connection ~ 7200 5100
+Connection ~ 6700 5100
+Connection ~ 6200 5100
+Connection ~ 5700 5100
+Connection ~ 8700 5100
+Connection ~ 5200 5100
+Wire Wire Line
+	13200 5700 13200 5500
+Wire Wire Line
+	13200 5500 12700 5500
+Wire Wire Line
+	12700 5500 12700 5700
+Wire Wire Line
+	12700 5500 12200 5500
+Wire Wire Line
+	12200 5500 12200 5700
+Wire Wire Line
+	12200 5500 11700 5500
+Wire Wire Line
+	11700 5500 11700 5700
+Wire Wire Line
+	11700 5500 11200 5500
+Wire Wire Line
+	11200 5500 11200 5700
+Wire Wire Line
+	11200 5500 10700 5500
+Wire Wire Line
+	10700 5500 10700 5700
+Wire Wire Line
+	10700 5500 10200 5500
+Wire Wire Line
+	10200 5500 10200 5700
+Wire Wire Line
+	10200 5500 9700 5500
+Wire Wire Line
+	9700 5500 9700 5700
+Wire Wire Line
+	8700 5700 8700 5500
+Wire Wire Line
+	8700 5500 8200 5500
+Wire Wire Line
+	8200 5500 8200 5700
+Wire Wire Line
+	8200 5500 7700 5500
+Wire Wire Line
+	7700 5500 7700 5700
+Wire Wire Line
+	7700 5500 7200 5500
+Wire Wire Line
+	7200 5500 7200 5700
+Wire Wire Line
+	7200 5500 6700 5500
+Wire Wire Line
+	6700 5500 6700 5700
+Wire Wire Line
+	6700 5500 6200 5500
+Wire Wire Line
+	6200 5500 6200 5700
+Wire Wire Line
+	6200 5500 5700 5500
+Wire Wire Line
+	5700 5500 5700 5700
+Wire Wire Line
+	5700 5500 5200 5500
+Wire Wire Line
+	5200 5500 5200 5700
+Wire Wire Line
+	9700 5500 8700 5500
+Wire Wire Line
+	3800 6600 4900 6600
+Wire Wire Line
+	4900 6600 4900 5500
+Wire Wire Line
+	4900 5500 5200 5500
+Connection ~ 12700 5500
+Connection ~ 12200 5500
+Connection ~ 11700 5500
+Connection ~ 11200 5500
+Connection ~ 10700 5500
+Connection ~ 10200 5500
+Connection ~ 9700 5500
+Connection ~ 8200 5500
+Connection ~ 7700 5500
+Connection ~ 7200 5500
+Connection ~ 6700 5500
+Connection ~ 6200 5500
+Connection ~ 5700 5500
+Connection ~ 8700 5500
+Connection ~ 5200 5500
+Wire Wire Line
+	13200 6100 13200 5900
+Wire Wire Line
+	13200 5900 12700 5900
+Wire Wire Line
+	12700 5900 12700 6100
+Wire Wire Line
+	12700 5900 12200 5900
+Wire Wire Line
+	12200 5900 12200 6100
+Wire Wire Line
+	12200 5900 11700 5900
+Wire Wire Line
+	11700 5900 11700 6100
+Wire Wire Line
+	11700 5900 11200 5900
+Wire Wire Line
+	11200 5900 11200 6100
+Wire Wire Line
+	11200 5900 10700 5900
+Wire Wire Line
+	10700 5900 10700 6100
+Wire Wire Line
+	10700 5900 10200 5900
+Wire Wire Line
+	10200 5900 10200 6100
+Wire Wire Line
+	10200 5900 9700 5900
+Wire Wire Line
+	9700 5900 9700 6100
+Wire Wire Line
+	8700 6100 8700 5900
+Wire Wire Line
+	8700 5900 8200 5900
+Wire Wire Line
+	8200 5900 8200 6100
+Wire Wire Line
+	8200 5900 7700 5900
+Wire Wire Line
+	7700 5900 7700 6100
+Wire Wire Line
+	7700 5900 7200 5900
+Wire Wire Line
+	7200 5900 7200 6100
+Wire Wire Line
+	7200 5900 6700 5900
+Wire Wire Line
+	6700 5900 6700 6100
+Wire Wire Line
+	6700 5900 6200 5900
+Wire Wire Line
+	6200 5900 6200 6100
+Wire Wire Line
+	6200 5900 5700 5900
+Wire Wire Line
+	5700 5900 5700 6100
+Wire Wire Line
+	5700 5900 5200 5900
+Wire Wire Line
+	5200 5900 5200 6100
+Wire Wire Line
+	9700 5900 8700 5900
+Wire Wire Line
+	3800 7400 5000 7400
+Wire Wire Line
+	5000 7400 5000 5900
+Wire Wire Line
+	5000 5900 5200 5900
+Connection ~ 12700 5900
+Connection ~ 12200 5900
+Connection ~ 11700 5900
+Connection ~ 11200 5900
+Connection ~ 10700 5900
+Connection ~ 10200 5900
+Connection ~ 9700 5900
+Connection ~ 8200 5900
+Connection ~ 7700 5900
+Connection ~ 7200 5900
+Connection ~ 6700 5900
+Connection ~ 6200 5900
+Connection ~ 5700 5900
+Connection ~ 8700 5900
+Connection ~ 5200 5900
+Wire Wire Line
+	13200 6500 13200 6300
+Wire Wire Line
+	13200 6300 12700 6300
+Wire Wire Line
+	12700 6300 12700 6500
+Wire Wire Line
+	12700 6300 12200 6300
+Wire Wire Line
+	12200 6300 12200 6500
+Wire Wire Line
+	12200 6300 11700 6300
+Wire Wire Line
+	11700 6300 11700 6500
+Wire Wire Line
+	11700 6300 11200 6300
+Wire Wire Line
+	11200 6300 11200 6500
+Wire Wire Line
+	11200 6300 10700 6300
+Wire Wire Line
+	10700 6300 10700 6500
+Wire Wire Line
+	10700 6300 10200 6300
+Wire Wire Line
+	10200 6300 10200 6500
+Wire Wire Line
+	10200 6300 9700 6300
+Wire Wire Line
+	9700 6300 9700 6500
+Wire Wire Line
+	8700 6500 8700 6300
+Wire Wire Line
+	8700 6300 8200 6300
+Wire Wire Line
+	8200 6300 8200 6500
+Wire Wire Line
+	8200 6300 7700 6300
+Wire Wire Line
+	7700 6300 7700 6500
+Wire Wire Line
+	7700 6300 7200 6300
+Wire Wire Line
+	7200 6300 7200 6500
+Wire Wire Line
+	7200 6300 6700 6300
+Wire Wire Line
+	6700 6300 6700 6500
+Wire Wire Line
+	6700 6300 6200 6300
+Wire Wire Line
+	6200 6300 6200 6500
+Wire Wire Line
+	6200 6300 5700 6300
+Wire Wire Line
+	5700 6300 5700 6500
+Wire Wire Line
+	5700 6300 5200 6300
+Wire Wire Line
+	5200 6300 5200 6500
+Wire Wire Line
+	9700 6300 8700 6300
+Wire Wire Line
+	3800 8200 5100 8200
+Wire Wire Line
+	5100 8200 5100 6300
+Wire Wire Line
+	5100 6300 5200 6300
+Connection ~ 12700 6300
+Connection ~ 12200 6300
+Connection ~ 11700 6300
+Connection ~ 11200 6300
+Connection ~ 10700 6300
+Connection ~ 10200 6300
+Connection ~ 9700 6300
+Connection ~ 8200 6300
+Connection ~ 7700 6300
+Connection ~ 7200 6300
+Connection ~ 6700 6300
+Connection ~ 6200 6300
+Connection ~ 5700 6300
+Connection ~ 8700 6300
+Connection ~ 5200 6300
+Wire Wire Line
+	13200 6900 13200 6700
+Wire Wire Line
+	13200 6700 12700 6700
+Wire Wire Line
+	12700 6700 12700 6900
+Wire Wire Line
+	12700 6700 12200 6700
+Wire Wire Line
+	12200 6700 12200 6900
+Wire Wire Line
+	12200 6700 11700 6700
+Wire Wire Line
+	11700 6700 11700 6900
+Wire Wire Line
+	11700 6700 11200 6700
+Wire Wire Line
+	11200 6700 11200 6900
+Wire Wire Line
+	11200 6700 10700 6700
+Wire Wire Line
+	10700 6700 10700 6900
+Wire Wire Line
+	10700 6700 10200 6700
+Wire Wire Line
+	10200 6700 10200 6900
+Wire Wire Line
+	10200 6700 9700 6700
+Wire Wire Line
+	9700 6700 9700 6900
+Wire Wire Line
+	8700 6900 8700 6700
+Wire Wire Line
+	8700 6700 8200 6700
+Wire Wire Line
+	8200 6700 8200 6900
+Wire Wire Line
+	8200 6700 7700 6700
+Wire Wire Line
+	7700 6700 7700 6900
+Wire Wire Line
+	7700 6700 7200 6700
+Wire Wire Line
+	7200 6700 7200 6900
+Wire Wire Line
+	7200 6700 6700 6700
+Wire Wire Line
+	6700 6700 6700 6900
+Wire Wire Line
+	6700 6700 6200 6700
+Wire Wire Line
+	6200 6700 6200 6900
+Wire Wire Line
+	6200 6700 5700 6700
+Wire Wire Line
+	5700 6700 5700 6900
+Wire Wire Line
+	5700 6700 5200 6700
+Wire Wire Line
+	5200 6700 5200 6900
+Wire Wire Line
+	9700 6700 8700 6700
+Wire Wire Line
+	3800 9000 5200 9000
+Wire Wire Line
+	5200 9000 5200 6900
+Connection ~ 12700 6700
+Connection ~ 12200 6700
+Connection ~ 11700 6700
+Connection ~ 11200 6700
+Connection ~ 10700 6700
+Connection ~ 10200 6700
+Connection ~ 9700 6700
+Connection ~ 8200 6700
+Connection ~ 7700 6700
+Connection ~ 7200 6700
+Connection ~ 6700 6700
+Connection ~ 6200 6700
+Connection ~ 5700 6700
+Connection ~ 8700 6700
+Wire Wire Line
+	10000 4100 10000 4500
+Wire Wire Line
+	10000 4500 10000 4900
+Wire Wire Line
+	10000 4900 10000 5300
+Wire Wire Line
+	10000 5300 10000 5700
+Wire Wire Line
+	10000 5700 10000 6100
+Wire Wire Line
+	10000 6100 10000 6500
+Wire Wire Line
+	10000 6500 10000 6900
+Wire Wire Line
+	11100 7400 10000 7400
+Wire Wire Line
+	10000 7400 10000 6900
+Connection ~ 10000 4500
+Connection ~ 10000 4900
+Connection ~ 10000 5300
+Connection ~ 10000 5700
+Connection ~ 10000 6100
+Connection ~ 10000 6500
+Connection ~ 10000 6900
+Wire Wire Line
+	10500 4100 10500 4500
+Wire Wire Line
+	10500 4500 10500 4900
+Wire Wire Line
+	10500 4900 10500 5300
+Wire Wire Line
+	10500 5300 10500 5700
+Wire Wire Line
+	10500 5700 10500 6100
+Wire Wire Line
+	10500 6100 10500 6500
+Wire Wire Line
+	10500 6500 10500 6900
+Wire Wire Line
+	11200 7400 11200 7300
+Wire Wire Line
+	11200 7300 10500 7300
+Wire Wire Line
+	10500 7300 10500 6900
+Connection ~ 10500 4500
+Connection ~ 10500 4900
+Connection ~ 10500 5300
+Connection ~ 10500 5700
+Connection ~ 10500 6100
+Connection ~ 10500 6500
+Connection ~ 10500 6900
+Wire Wire Line
+	11000 4100 11000 4500
+Wire Wire Line
+	11000 4500 11000 4900
+Wire Wire Line
+	11000 4900 11000 5300
+Wire Wire Line
+	11000 5300 11000 5700
+Wire Wire Line
+	11000 5700 11000 6100
+Wire Wire Line
+	11000 6100 11000 6500
+Wire Wire Line
+	11000 6500 11000 6900
+Wire Wire Line
+	11300 7400 11300 7200
+Wire Wire Line
+	11300 7200 11000 7200
+Wire Wire Line
+	11000 7200 11000 6900
+Connection ~ 11000 4500
+Connection ~ 11000 4900
+Connection ~ 11000 5300
+Connection ~ 11000 5700
+Connection ~ 11000 6100
+Connection ~ 11000 6500
+Connection ~ 11000 6900
+Wire Wire Line
+	11500 4100 11500 4500
+Wire Wire Line
+	11500 4500 11500 4900
+Wire Wire Line
+	11500 4900 11500 5300
+Wire Wire Line
+	11500 5300 11500 5700
+Wire Wire Line
+	11500 5700 11500 6100
+Wire Wire Line
+	11500 6100 11500 6500
+Wire Wire Line
+	11500 6500 11500 6900
+Wire Wire Line
+	11400 7400 11400 7000
+Wire Wire Line
+	11400 7000 11500 7000
+Wire Wire Line
+	11500 7000 11500 6900
+Connection ~ 11500 4500
+Connection ~ 11500 4900
+Connection ~ 11500 5300
+Connection ~ 11500 5700
+Connection ~ 11500 6100
+Connection ~ 11500 6500
+Connection ~ 11500 6900
+Wire Wire Line
+	12000 4100 12000 4500
+Wire Wire Line
+	12000 4500 12000 4900
+Wire Wire Line
+	12000 4900 12000 5300
+Wire Wire Line
+	12000 5300 12000 5700
+Wire Wire Line
+	12000 5700 12000 6100
+Wire Wire Line
+	12000 6100 12000 6500
+Wire Wire Line
+	12000 6500 12000 6900
+Wire Wire Line
+	11500 7400 11500 7100
+Wire Wire Line
+	11500 7100 12000 7100
+Wire Wire Line
+	12000 7100 12000 6900
+Connection ~ 12000 4500
+Connection ~ 12000 4900
+Connection ~ 12000 5300
+Connection ~ 12000 5700
+Connection ~ 12000 6100
+Connection ~ 12000 6500
+Connection ~ 12000 6900
+Wire Wire Line
+	12500 4100 12500 4500
+Wire Wire Line
+	12500 4500 12500 4900
+Wire Wire Line
+	12500 4900 12500 5300
+Wire Wire Line
+	12500 5300 12500 5700
+Wire Wire Line
+	12500 5700 12500 6100
+Wire Wire Line
+	12500 6100 12500 6500
+Wire Wire Line
+	12500 6500 12500 6900
+Wire Wire Line
+	11600 7400 11600 7200
+Wire Wire Line
+	11600 7200 12500 7200
+Wire Wire Line
+	12500 7200 12500 6900
+Connection ~ 12500 4500
+Connection ~ 12500 4900
+Connection ~ 12500 5300
+Connection ~ 12500 5700
+Connection ~ 12500 6100
+Connection ~ 12500 6500
+Connection ~ 12500 6900
+Wire Wire Line
+	13000 4100 13000 4500
+Wire Wire Line
+	13000 4500 13000 4900
+Wire Wire Line
+	13000 4900 13000 5300
+Wire Wire Line
+	13000 5300 13000 5700
+Wire Wire Line
+	13000 5700 13000 6100
+Wire Wire Line
+	13000 6100 13000 6500
+Wire Wire Line
+	13000 6500 13000 6900
+Wire Wire Line
+	11700 7400 11700 7300
+Wire Wire Line
+	11700 7300 13000 7300
+Wire Wire Line
+	13000 7300 13000 6900
+Connection ~ 13000 4500
+Connection ~ 13000 4900
+Connection ~ 13000 5300
+Connection ~ 13000 5700
+Connection ~ 13000 6100
+Connection ~ 13000 6500
+Connection ~ 13000 6900
+Wire Wire Line
+	13500 4100 13500 4500
+Wire Wire Line
+	13500 4500 13500 4900
+Wire Wire Line
+	13500 4900 13500 5300
+Wire Wire Line
+	13500 5300 13500 5700
+Wire Wire Line
+	13500 5700 13500 6100
+Wire Wire Line
+	13500 6100 13500 6500
+Wire Wire Line
+	13500 6500 13500 6900
+Wire Wire Line
+	11800 7400 13500 7400
+Wire Wire Line
+	13500 7400 13500 6900
+Connection ~ 13500 4500
+Connection ~ 13500 4900
+Connection ~ 13500 5300
+Connection ~ 13500 5700
+Connection ~ 13500 6100
+Connection ~ 13500 6500
+Connection ~ 13500 6900
+Wire Wire Line
+	7500 8400 9300 8400
+Wire Wire Line
+	9300 8400 9300 9300
+Wire Wire Line
+	9300 9300 11100 9300
+Wire Wire Line
+	7100 2400 7200 2400
+Text Label 7200 2400 0    70   ~ 0
+GND
+Wire Wire Line
+	2200 6100 2200 6200
+Text Label 2200 6200 0    70   ~ 0
+GND
+Wire Wire Line
+	6100 9200 6100 9300
+Text Label 6100 9300 3    70   ~ 0
+GND
+Wire Wire Line
+	10600 9100 10600 9200
+Text Label 10600 9200 3    70   ~ 0
+GND
+Wire Wire Line
+	2700 1600 2700 1700
+Text Label 2700 1600 0    10   ~ 0
+GND
+Wire Wire Line
+	2800 2600 2800 2500
+Text Label 2800 2600 0    10   ~ 0
+GND
+Wire Wire Line
+	2900 3400 2900 3500
+Text Label 2900 3400 0    10   ~ 0
+GND
+Wire Wire Line
+	3000 4300 3000 4400
+Text Label 3000 4300 0    10   ~ 0
+GND
+Wire Wire Line
+	2800 9400 2800 9300
+Text Label 2800 9400 0    10   ~ 0
+GND
+Wire Wire Line
+	2900 8600 2900 8500
+Text Label 2900 8600 0    10   ~ 0
+GND
+Wire Wire Line
+	3000 7800 3000 7700
+Text Label 3000 7800 0    10   ~ 0
+GND
+Wire Wire Line
+	3100 7000 3100 6900
+Text Label 3100 7000 0    10   ~ 0
+GND
+Wire Wire Line
+	7100 2300 7200 2300
+Text Label 7200 2300 0    70   ~ 0
+VSUP
+Wire Wire Line
+	1600 6100 1600 6200
+Text Label 1600 6200 2    70   ~ 0
+VSUP
+Wire Wire Line
+	6100 8600 6100 8500
+Text Label 6100 8500 1    70   ~ 0
+VSUP
+Wire Wire Line
+	10600 8500 10600 8400
+Text Label 10600 8400 1    70   ~ 0
+VSUP
+Wire Wire Line
+	3800 3400 4500 3400
+Wire Wire Line
+	3800 2500 4500 2500
+Wire Wire Line
+	4500 2500 4500 3400
+Wire Wire Line
+	3800 1600 4500 1600
+Wire Wire Line
+	4500 1600 4500 2500
+Wire Wire Line
+	3800 700  4500 700 
+Wire Wire Line
+	4500 700  4500 1600
+Text Label 4500 3400 0    70   ~ 0
+VSUP
+Connection ~ 4500 2500
+Connection ~ 4500 1600
+Wire Wire Line
+	3800 8400 4400 8400
+Wire Wire Line
+	4400 8400 4400 7600
+Wire Wire Line
+	4400 7600 3800 7600
+Wire Wire Line
+	3800 6800 4400 6800
+Wire Wire Line
+	4400 6800 4400 7600
+Wire Wire Line
+	3800 6000 4400 6000
+Wire Wire Line
+	4400 6000 4400 6800
+Connection ~ 4400 7600
+Connection ~ 4400 6800
+Text Label 4400 8400 0    70   ~ 0
+VSUP
+Wire Wire Line
+	7000 4100 7000 4500
+Wire Wire Line
+	7000 4500 7000 4900
+Wire Wire Line
+	7000 4900 7000 5300
+Wire Wire Line
+	7000 5300 7000 5700
+Wire Wire Line
+	7000 5700 7000 6100
+Wire Wire Line
+	7000 6100 7000 6500
+Wire Wire Line
+	7000 6500 7000 6900
+Wire Wire Line
+	6900 7500 6900 7000
+Wire Wire Line
+	6900 7000 7000 7000
+Wire Wire Line
+	7000 7000 7000 6900
+Connection ~ 7000 4500
+Connection ~ 7000 4900
+Connection ~ 7000 5300
+Connection ~ 7000 5700
+Connection ~ 7000 6100
+Connection ~ 7000 6500
+Connection ~ 7000 6900
+Wire Wire Line
+	6600 8400 6600 7900
+Wire Wire Line
+	6700 8400 6700 7900
+Wire Wire Line
+	6800 8400 6800 7900
+Wire Wire Line
+	6900 7900 6900 8400
+Wire Wire Line
+	7000 8400 7000 7900
+Wire Wire Line
+	7100 7900 7100 8400
+Wire Wire Line
+	7200 8400 7200 7900
+Wire Wire Line
+	7300 7900 7300 8400
+Wire Wire Line
+	11100 7800 11100 8300
+Wire Wire Line
+	11200 7800 11200 8300
+Wire Wire Line
+	11300 8300 11300 7800
+Wire Wire Line
+	11400 7800 11400 8300
+Wire Wire Line
+	11500 8300 11500 7800
+Wire Wire Line
+	11600 7800 11600 8300
+Wire Wire Line
+	11700 8300 11700 7800
+Wire Wire Line
+	11800 7800 11800 8300
+Wire Wire Line
+	2400 5600 2700 5600
+Wire Wire Line
+	2700 5600 2700 9600
+Wire Wire Line
+	2700 9600 6600 9600
+Wire Wire Line
+	6600 9600 6600 9400
+Wire Wire Line
+	1400 4900 1200 4900
+Wire Wire Line
+	1200 4900 900  4900
+Wire Wire Line
+	1200 4900 1200 9900
+Wire Wire Line
+	1200 9900 6800 9900
+Wire Wire Line
+	6800 9900 6800 9400
+Wire Wire Line
+	6800 9900 11300 9900
+Wire Wire Line
+	11300 9900 11300 9300
+Wire Wire Line
+	1600 4900 1400 4900
+Text Label 900  4900 2    70   ~ 0
+SCK
+Connection ~ 1200 4900
+Connection ~ 6800 9900
+Connection ~ 1400 4900
+Wire Wire Line
+	7100 1800 7200 1800
+Text Label 7200 1800 0    70   ~ 0
+SCK
+Wire Wire Line
+	1100 5100 900  5100
+Wire Wire Line
+	1100 5100 1100 10100
+Wire Wire Line
+	1100 10100 6900 10100
+Wire Wire Line
+	6900 10100 6900 9400
+Wire Wire Line
+	6900 10100 11400 10100
+Wire Wire Line
+	11400 10100 11400 9300
+Wire Wire Line
+	1500 5000 1400 5000
+Wire Wire Line
+	1400 5000 1400 5100
+Wire Wire Line
+	1400 5100 1100 5100
+Text Label 900  5100 2    70   ~ 0
+SCL
+Connection ~ 1100 5100
+Connection ~ 6900 10100
+Connection ~ 1400 5000
+Wire Wire Line
+	7100 1900 7200 1900
+Text Label 7200 1900 0    70   ~ 0
+SCL
+Wire Wire Line
+	1400 5300 1000 5300
+Wire Wire Line
+	1000 5300 900  5300
+Wire Wire Line
+	1000 5300 1000 10300
+Wire Wire Line
+	1000 10300 7100 10300
+Wire Wire Line
+	7100 10300 7100 9400
+Wire Wire Line
+	7100 10300 11600 10300
+Wire Wire Line
+	11600 10300 11600 9300
+Wire Wire Line
+	1400 5200 1400 5300
+Wire Wire Line
+	1500 5200 1400 5200
+Text Label 900  5300 2    70   ~ 0
+RCK
+Connection ~ 1000 5300
+Connection ~ 7100 10300
+Connection ~ 1400 5200
+Wire Wire Line
+	7100 2000 7200 2000
+Text Label 7200 2000 0    70   ~ 0
+RCK
+Wire Wire Line
+	1500 4700 1400 4700
+Wire Wire Line
+	1400 4700 900  4700
+Text Label 900  4700 2    70   ~ 0
+SER
+Connection ~ 1400 4700
+Wire Wire Line
+	7100 1700 7200 1700
+Text Label 7200 1700 0    70   ~ 0
+SER
+Wire Wire Line
+	1400 5600 1400 5700
+Wire Wire Line
+	1500 5600 1400 5600
+Text Label 1400 5700 3    70   ~ 0
+PWM
+Connection ~ 1400 5600
+Wire Wire Line
+	7500 9400 7600 9400
+Text Label 7550 9400 0    70   ~ 0
+PWM
+Wire Wire Line
+	12000 9300 12100 9300
+Text Label 12100 9300 0    70   ~ 0
+PWM
+Wire Wire Line
+	7100 2200 7200 2200
+Text Label 7200 2200 0    70   ~ 0
+PWM
+Wire Wire Line
+	3500 1100 2700 1100
+Wire Wire Line
+	2700 1100 2400 1100
+Wire Wire Line
+	2400 1100 2400 4700
+Wire Wire Line
+	2700 1200 2700 1100
+Connection ~ 2700 1100
+Wire Wire Line
+	3500 2000 2800 2000
+Wire Wire Line
+	2800 2000 2500 2000
+Wire Wire Line
+	2500 2000 2500 4800
+Wire Wire Line
+	2500 4800 2400 4800
+Wire Wire Line
+	2800 2100 2800 2000
+Connection ~ 2800 2000
+Wire Wire Line
+	3500 2900 2900 2900
+Wire Wire Line
+	2900 2900 2600 2900
+Wire Wire Line
+	2600 2900 2600 4900
+Wire Wire Line
+	2600 4900 2400 4900
+Wire Wire Line
+	2900 3000 2900 2900
+Connection ~ 2900 2900
+Wire Wire Line
+	3500 3800 3000 3800
+Wire Wire Line
+	3000 3800 2700 3800
+Wire Wire Line
+	2700 3800 2700 5000
+Wire Wire Line
+	2700 5000 2400 5000
+Wire Wire Line
+	3000 3900 3000 3800
+Connection ~ 3000 3800
+Wire Wire Line
+	3500 8800 2800 8800
+Wire Wire Line
+	2800 8800 2800 5400
+Wire Wire Line
+	2800 5400 2400 5400
+Wire Wire Line
+	2800 8900 2800 8800
+Connection ~ 2800 8800
+Wire Wire Line
+	3500 8000 2900 8000
+Wire Wire Line
+	2900 8000 2900 5300
+Wire Wire Line
+	2900 5300 2400 5300
+Wire Wire Line
+	2900 8100 2900 8000
+Connection ~ 2900 8000
+Wire Wire Line
+	3500 7200 3000 7200
+Wire Wire Line
+	3000 7200 3000 5200
+Wire Wire Line
+	3000 5200 2400 5200
+Wire Wire Line
+	3000 7300 3000 7200
+Connection ~ 3000 7200
+Wire Wire Line
+	3500 6400 3100 6400
+Wire Wire Line
+	3100 6400 3100 5100
+Wire Wire Line
+	3100 5100 2400 5100
+Wire Wire Line
+	3100 6500 3100 6400
+Connection ~ 3100 6400
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED1
+U 1 0 7DC8C285
+P 5300 4100
+F 0 "LED1" V 5440 3920 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 5525 3920 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 5300 4100 50  0001 C CNN
+F 3 "" H 5300 4100 50  0001 C CNN
+	1    5300 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED9
+U 1 0 A4BB2AFA
+P 5800 4100
+F 0 "LED9" V 5940 3920 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 6025 3920 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 5800 4100 50  0001 C CNN
+F 3 "" H 5800 4100 50  0001 C CNN
+	1    5800 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED17
+U 1 0 16C4D518
+P 6300 4100
+F 0 "LED17" V 6440 3920 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 6525 3920 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 6300 4100 50  0001 C CNN
+F 3 "" H 6300 4100 50  0001 C CNN
+	1    6300 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED25
+U 1 0 F35620D0
+P 6800 4100
+F 0 "LED25" V 6940 3920 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 7025 3920 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 6800 4100 50  0001 C CNN
+F 3 "" H 6800 4100 50  0001 C CNN
+	1    6800 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED33
+U 1 0 496DECC8
+P 7300 4100
+F 0 "LED33" V 7440 3920 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 7525 3920 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 7300 4100 50  0001 C CNN
+F 3 "" H 7300 4100 50  0001 C CNN
+	1    7300 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED41
+U 1 0 BF749126
+P 7800 4100
+F 0 "LED41" V 7940 3920 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 8025 3920 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 7800 4100 50  0001 C CNN
+F 3 "" H 7800 4100 50  0001 C CNN
+	1    7800 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED49
+U 1 0 A86CF175
+P 8300 4100
+F 0 "LED49" V 8440 3920 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 8525 3920 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 8300 4100 50  0001 C CNN
+F 3 "" H 8300 4100 50  0001 C CNN
+	1    8300 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED57
+U 1 0 B6731209
+P 8800 4100
+F 0 "LED57" V 8940 3920 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 9025 3920 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 8800 4100 50  0001 C CNN
+F 3 "" H 8800 4100 50  0001 C CNN
+	1    8800 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED2
+U 1 0 221661FE
+P 5300 4500
+F 0 "LED2" V 5440 4320 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 5525 4320 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 5300 4500 50  0001 C CNN
+F 3 "" H 5300 4500 50  0001 C CNN
+	1    5300 4500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED10
+U 1 0 0CB95FCD
+P 5800 4500
+F 0 "LED10" V 5940 4320 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 6025 4320 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 5800 4500 50  0001 C CNN
+F 3 "" H 5800 4500 50  0001 C CNN
+	1    5800 4500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED18
+U 1 0 E44FB07E
+P 6300 4500
+F 0 "LED18" V 6440 4320 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 6525 4320 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 6300 4500 50  0001 C CNN
+F 3 "" H 6300 4500 50  0001 C CNN
+	1    6300 4500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED26
+U 1 0 B0347ADC
+P 6800 4500
+F 0 "LED26" V 6940 4320 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 7025 4320 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 6800 4500 50  0001 C CNN
+F 3 "" H 6800 4500 50  0001 C CNN
+	1    6800 4500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED34
+U 1 0 44026332
+P 7300 4500
+F 0 "LED34" V 7440 4320 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 7525 4320 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 7300 4500 50  0001 C CNN
+F 3 "" H 7300 4500 50  0001 C CNN
+	1    7300 4500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED42
+U 1 0 AA776AA7
+P 7800 4500
+F 0 "LED42" V 7940 4320 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 8025 4320 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 7800 4500 50  0001 C CNN
+F 3 "" H 7800 4500 50  0001 C CNN
+	1    7800 4500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED50
+U 1 0 AB1BFF50
+P 8300 4500
+F 0 "LED50" V 8440 4320 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 8525 4320 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 8300 4500 50  0001 C CNN
+F 3 "" H 8300 4500 50  0001 C CNN
+	1    8300 4500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED58
+U 1 0 82799795
+P 8800 4500
+F 0 "LED58" V 8940 4320 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 9025 4320 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 8800 4500 50  0001 C CNN
+F 3 "" H 8800 4500 50  0001 C CNN
+	1    8800 4500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED3
+U 1 0 E9052FDA
+P 5300 4900
+F 0 "LED3" V 5440 4720 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 5525 4720 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 5300 4900 50  0001 C CNN
+F 3 "" H 5300 4900 50  0001 C CNN
+	1    5300 4900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED11
+U 1 0 9420C522
+P 5800 4900
+F 0 "LED11" V 5940 4720 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 6025 4720 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 5800 4900 50  0001 C CNN
+F 3 "" H 5800 4900 50  0001 C CNN
+	1    5800 4900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED19
+U 1 0 F29B36CE
+P 6300 4900
+F 0 "LED19" V 6440 4720 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 6525 4720 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 6300 4900 50  0001 C CNN
+F 3 "" H 6300 4900 50  0001 C CNN
+	1    6300 4900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED27
+U 1 0 B46B9C94
+P 6800 4900
+F 0 "LED27" V 6940 4720 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 7025 4720 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 6800 4900 50  0001 C CNN
+F 3 "" H 6800 4900 50  0001 C CNN
+	1    6800 4900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED35
+U 1 0 C23BAAA1
+P 7300 4900
+F 0 "LED35" V 7440 4720 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 7525 4720 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 7300 4900 50  0001 C CNN
+F 3 "" H 7300 4900 50  0001 C CNN
+	1    7300 4900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED43
+U 1 0 27B0E5CE
+P 7800 4900
+F 0 "LED43" V 7940 4720 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 8025 4720 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 7800 4900 50  0001 C CNN
+F 3 "" H 7800 4900 50  0001 C CNN
+	1    7800 4900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED51
+U 1 0 FB094BDE
+P 8300 4900
+F 0 "LED51" V 8440 4720 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 8525 4720 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 8300 4900 50  0001 C CNN
+F 3 "" H 8300 4900 50  0001 C CNN
+	1    8300 4900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED59
+U 1 0 0E0D2972
+P 8800 4900
+F 0 "LED59" V 8940 4720 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 9025 4720 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 8800 4900 50  0001 C CNN
+F 3 "" H 8800 4900 50  0001 C CNN
+	1    8800 4900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED4
+U 1 0 9949CB52
+P 5300 5300
+F 0 "LED4" V 5440 5120 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 5525 5120 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 5300 5300 50  0001 C CNN
+F 3 "" H 5300 5300 50  0001 C CNN
+	1    5300 5300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED12
+U 1 0 AD6A0342
+P 5800 5300
+F 0 "LED12" V 5940 5120 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 6025 5120 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 5800 5300 50  0001 C CNN
+F 3 "" H 5800 5300 50  0001 C CNN
+	1    5800 5300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED20
+U 1 0 729920F3
+P 6300 5300
+F 0 "LED20" V 6440 5120 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 6525 5120 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 6300 5300 50  0001 C CNN
+F 3 "" H 6300 5300 50  0001 C CNN
+	1    6300 5300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED28
+U 1 0 A2F4862F
+P 6800 5300
+F 0 "LED28" V 6940 5120 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 7025 5120 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 6800 5300 50  0001 C CNN
+F 3 "" H 6800 5300 50  0001 C CNN
+	1    6800 5300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED36
+U 1 0 76AEC7D9
+P 7300 5300
+F 0 "LED36" V 7440 5120 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 7525 5120 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 7300 5300 50  0001 C CNN
+F 3 "" H 7300 5300 50  0001 C CNN
+	1    7300 5300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED44
+U 1 0 9E1037B0
+P 7800 5300
+F 0 "LED44" V 7940 5120 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 8025 5120 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 7800 5300 50  0001 C CNN
+F 3 "" H 7800 5300 50  0001 C CNN
+	1    7800 5300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED52
+U 1 0 6444ABF6
+P 8300 5300
+F 0 "LED52" V 8440 5120 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 8525 5120 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 8300 5300 50  0001 C CNN
+F 3 "" H 8300 5300 50  0001 C CNN
+	1    8300 5300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED60
+U 1 0 C84128E4
+P 8800 5300
+F 0 "LED60" V 8940 5120 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 9025 5120 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 8800 5300 50  0001 C CNN
+F 3 "" H 8800 5300 50  0001 C CNN
+	1    8800 5300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED5
+U 1 0 69414D15
+P 5300 5700
+F 0 "LED5" V 5440 5520 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 5525 5520 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 5300 5700 50  0001 C CNN
+F 3 "" H 5300 5700 50  0001 C CNN
+	1    5300 5700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED13
+U 1 0 6165518B
+P 5800 5700
+F 0 "LED13" V 5940 5520 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 6025 5520 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 5800 5700 50  0001 C CNN
+F 3 "" H 5800 5700 50  0001 C CNN
+	1    5800 5700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED21
+U 1 0 BE83B3F8
+P 6300 5700
+F 0 "LED21" V 6440 5520 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 6525 5520 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 6300 5700 50  0001 C CNN
+F 3 "" H 6300 5700 50  0001 C CNN
+	1    6300 5700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED29
+U 1 0 77E00A3C
+P 6800 5700
+F 0 "LED29" V 6940 5520 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 7025 5520 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 6800 5700 50  0001 C CNN
+F 3 "" H 6800 5700 50  0001 C CNN
+	1    6800 5700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED37
+U 1 0 E2729713
+P 7300 5700
+F 0 "LED37" V 7440 5520 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 7525 5520 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 7300 5700 50  0001 C CNN
+F 3 "" H 7300 5700 50  0001 C CNN
+	1    7300 5700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED45
+U 1 0 361AAC7D
+P 7800 5700
+F 0 "LED45" V 7940 5520 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 8025 5520 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 7800 5700 50  0001 C CNN
+F 3 "" H 7800 5700 50  0001 C CNN
+	1    7800 5700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED53
+U 1 0 DC1B7F85
+P 8300 5700
+F 0 "LED53" V 8440 5520 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 8525 5520 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 8300 5700 50  0001 C CNN
+F 3 "" H 8300 5700 50  0001 C CNN
+	1    8300 5700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED61
+U 1 0 D5ADBFC5
+P 8800 5700
+F 0 "LED61" V 8940 5520 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 9025 5520 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 8800 5700 50  0001 C CNN
+F 3 "" H 8800 5700 50  0001 C CNN
+	1    8800 5700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED6
+U 1 0 3E6DA659
+P 5300 6100
+F 0 "LED6" V 5440 5920 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 5525 5920 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 5300 6100 50  0001 C CNN
+F 3 "" H 5300 6100 50  0001 C CNN
+	1    5300 6100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED14
+U 1 0 AA748025
+P 5800 6100
+F 0 "LED14" V 5940 5920 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 6025 5920 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 5800 6100 50  0001 C CNN
+F 3 "" H 5800 6100 50  0001 C CNN
+	1    5800 6100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED22
+U 1 0 3F9EFF40
+P 6300 6100
+F 0 "LED22" V 6440 5920 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 6525 5920 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 6300 6100 50  0001 C CNN
+F 3 "" H 6300 6100 50  0001 C CNN
+	1    6300 6100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED30
+U 1 0 813B6355
+P 6800 6100
+F 0 "LED30" V 6940 5920 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 7025 5920 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 6800 6100 50  0001 C CNN
+F 3 "" H 6800 6100 50  0001 C CNN
+	1    6800 6100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED38
+U 1 0 347FA127
+P 7300 6100
+F 0 "LED38" V 7440 5920 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 7525 5920 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 7300 6100 50  0001 C CNN
+F 3 "" H 7300 6100 50  0001 C CNN
+	1    7300 6100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED46
+U 1 0 7B186935
+P 7800 6100
+F 0 "LED46" V 7940 5920 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 8025 5920 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 7800 6100 50  0001 C CNN
+F 3 "" H 7800 6100 50  0001 C CNN
+	1    7800 6100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED54
+U 1 0 9B6E113C
+P 8300 6100
+F 0 "LED54" V 8440 5920 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 8525 5920 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 8300 6100 50  0001 C CNN
+F 3 "" H 8300 6100 50  0001 C CNN
+	1    8300 6100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED62
+U 1 0 F018D599
+P 8800 6100
+F 0 "LED62" V 8940 5920 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 9025 5920 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 8800 6100 50  0001 C CNN
+F 3 "" H 8800 6100 50  0001 C CNN
+	1    8800 6100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED7
+U 1 0 80FA1933
+P 5300 6500
+F 0 "LED7" V 5440 6320 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 5525 6320 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 5300 6500 50  0001 C CNN
+F 3 "" H 5300 6500 50  0001 C CNN
+	1    5300 6500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED15
+U 1 0 2B07A567
+P 5800 6500
+F 0 "LED15" V 5940 6320 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 6025 6320 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 5800 6500 50  0001 C CNN
+F 3 "" H 5800 6500 50  0001 C CNN
+	1    5800 6500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED23
+U 1 0 25F5BC50
+P 6300 6500
+F 0 "LED23" V 6440 6320 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 6525 6320 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 6300 6500 50  0001 C CNN
+F 3 "" H 6300 6500 50  0001 C CNN
+	1    6300 6500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED31
+U 1 0 B8FB1B04
+P 6800 6500
+F 0 "LED31" V 6940 6320 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 7025 6320 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 6800 6500 50  0001 C CNN
+F 3 "" H 6800 6500 50  0001 C CNN
+	1    6800 6500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED39
+U 1 0 1D5B13EE
+P 7300 6500
+F 0 "LED39" V 7440 6320 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 7525 6320 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 7300 6500 50  0001 C CNN
+F 3 "" H 7300 6500 50  0001 C CNN
+	1    7300 6500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED47
+U 1 0 02D9C115
+P 7800 6500
+F 0 "LED47" V 7940 6320 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 8025 6320 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 7800 6500 50  0001 C CNN
+F 3 "" H 7800 6500 50  0001 C CNN
+	1    7800 6500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED55
+U 1 0 D97E1310
+P 8300 6500
+F 0 "LED55" V 8440 6320 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 8525 6320 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 8300 6500 50  0001 C CNN
+F 3 "" H 8300 6500 50  0001 C CNN
+	1    8300 6500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED63
+U 1 0 5BAFFE40
+P 8800 6500
+F 0 "LED63" V 8940 6320 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 9025 6320 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 8800 6500 50  0001 C CNN
+F 3 "" H 8800 6500 50  0001 C CNN
+	1    8800 6500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED8
+U 1 0 573B2024
+P 5300 6900
+F 0 "LED8" V 5440 6720 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 5525 6720 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 5300 6900 50  0001 C CNN
+F 3 "" H 5300 6900 50  0001 C CNN
+	1    5300 6900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED16
+U 1 0 2772DD28
+P 5800 6900
+F 0 "LED16" V 5940 6720 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 6025 6720 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 5800 6900 50  0001 C CNN
+F 3 "" H 5800 6900 50  0001 C CNN
+	1    5800 6900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED24
+U 1 0 7A4071B9
+P 6300 6900
+F 0 "LED24" V 6440 6720 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 6525 6720 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 6300 6900 50  0001 C CNN
+F 3 "" H 6300 6900 50  0001 C CNN
+	1    6300 6900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED32
+U 1 0 EA9AC3CC
+P 6800 6900
+F 0 "LED32" V 6940 6720 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 7025 6720 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 6800 6900 50  0001 C CNN
+F 3 "" H 6800 6900 50  0001 C CNN
+	1    6800 6900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED40
+U 1 0 A6863B4C
+P 7300 6900
+F 0 "LED40" V 7440 6720 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 7525 6720 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 7300 6900 50  0001 C CNN
+F 3 "" H 7300 6900 50  0001 C CNN
+	1    7300 6900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED48
+U 1 0 C7BFAF23
+P 7800 6900
+F 0 "LED48" V 7940 6720 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 8025 6720 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 7800 6900 50  0001 C CNN
+F 3 "" H 7800 6900 50  0001 C CNN
+	1    7800 6900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED56
+U 1 0 CDB9AE37
+P 8300 6900
+F 0 "LED56" V 8440 6720 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 8525 6720 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 8300 6900 50  0001 C CNN
+F 3 "" H 8300 6900 50  0001 C CNN
+	1    8300 6900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED64
+U 1 0 E9162284
+P 8800 6900
+F 0 "LED64" V 8940 6720 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 9025 6720 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 8800 6900 50  0001 C CNN
+F 3 "" H 8800 6900 50  0001 C CNN
+	1    8800 6900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED65
+U 1 0 29A89C9A
+P 9800 4100
+F 0 "LED65" V 9940 3920 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 10025 3920 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 9800 4100 50  0001 C CNN
+F 3 "" H 9800 4100 50  0001 C CNN
+	1    9800 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED73
+U 1 0 DFF7251D
+P 10300 4100
+F 0 "LED73" V 10440 3920 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 10525 3920 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 10300 4100 50  0001 C CNN
+F 3 "" H 10300 4100 50  0001 C CNN
+	1    10300 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED81
+U 1 0 BA26711B
+P 10800 4100
+F 0 "LED81" V 10940 3920 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 11025 3920 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 10800 4100 50  0001 C CNN
+F 3 "" H 10800 4100 50  0001 C CNN
+	1    10800 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED89
+U 1 0 6EFD31D2
+P 11300 4100
+F 0 "LED89" V 11440 3920 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 11525 3920 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 11300 4100 50  0001 C CNN
+F 3 "" H 11300 4100 50  0001 C CNN
+	1    11300 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED97
+U 1 0 8215B898
+P 11800 4100
+F 0 "LED97" V 11940 3920 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 12025 3920 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 11800 4100 50  0001 C CNN
+F 3 "" H 11800 4100 50  0001 C CNN
+	1    11800 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED105
+U 1 0 A34452FF
+P 12300 4100
+F 0 "LED105" V 12440 3920 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 12525 3920 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 12300 4100 50  0001 C CNN
+F 3 "" H 12300 4100 50  0001 C CNN
+	1    12300 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED113
+U 1 0 4C732C81
+P 12800 4100
+F 0 "LED113" V 12940 3920 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 13025 3920 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 12800 4100 50  0001 C CNN
+F 3 "" H 12800 4100 50  0001 C CNN
+	1    12800 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED121
+U 1 0 8A86F329
+P 13300 4100
+F 0 "LED121" V 13440 3920 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 13525 3920 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 13300 4100 50  0001 C CNN
+F 3 "" H 13300 4100 50  0001 C CNN
+	1    13300 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED66
+U 1 0 578A9B99
+P 9800 4500
+F 0 "LED66" V 9940 4320 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 10025 4320 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 9800 4500 50  0001 C CNN
+F 3 "" H 9800 4500 50  0001 C CNN
+	1    9800 4500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED74
+U 1 0 08EC9382
+P 10300 4500
+F 0 "LED74" V 10440 4320 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 10525 4320 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 10300 4500 50  0001 C CNN
+F 3 "" H 10300 4500 50  0001 C CNN
+	1    10300 4500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED82
+U 1 0 841D7E1E
+P 10800 4500
+F 0 "LED82" V 10940 4320 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 11025 4320 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 10800 4500 50  0001 C CNN
+F 3 "" H 10800 4500 50  0001 C CNN
+	1    10800 4500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED90
+U 1 0 53E75CFE
+P 11300 4500
+F 0 "LED90" V 11440 4320 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 11525 4320 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 11300 4500 50  0001 C CNN
+F 3 "" H 11300 4500 50  0001 C CNN
+	1    11300 4500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED98
+U 1 0 A47317E6
+P 11800 4500
+F 0 "LED98" V 11940 4320 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 12025 4320 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 11800 4500 50  0001 C CNN
+F 3 "" H 11800 4500 50  0001 C CNN
+	1    11800 4500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED106
+U 1 0 956F8D0B
+P 12300 4500
+F 0 "LED106" V 12440 4320 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 12525 4320 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 12300 4500 50  0001 C CNN
+F 3 "" H 12300 4500 50  0001 C CNN
+	1    12300 4500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED114
+U 1 0 58FCAE60
+P 12800 4500
+F 0 "LED114" V 12940 4320 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 13025 4320 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 12800 4500 50  0001 C CNN
+F 3 "" H 12800 4500 50  0001 C CNN
+	1    12800 4500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED122
+U 1 0 B99C2272
+P 13300 4500
+F 0 "LED122" V 13440 4320 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 13525 4320 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 13300 4500 50  0001 C CNN
+F 3 "" H 13300 4500 50  0001 C CNN
+	1    13300 4500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED67
+U 1 0 5D6C5255
+P 9800 4900
+F 0 "LED67" V 9940 4720 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 10025 4720 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 9800 4900 50  0001 C CNN
+F 3 "" H 9800 4900 50  0001 C CNN
+	1    9800 4900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED75
+U 1 0 6B863ACD
+P 10300 4900
+F 0 "LED75" V 10440 4720 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 10525 4720 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 10300 4900 50  0001 C CNN
+F 3 "" H 10300 4900 50  0001 C CNN
+	1    10300 4900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED83
+U 1 0 3963FA11
+P 10800 4900
+F 0 "LED83" V 10940 4720 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 11025 4720 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 10800 4900 50  0001 C CNN
+F 3 "" H 10800 4900 50  0001 C CNN
+	1    10800 4900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED91
+U 1 0 00E1A974
+P 11300 4900
+F 0 "LED91" V 11440 4720 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 11525 4720 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 11300 4900 50  0001 C CNN
+F 3 "" H 11300 4900 50  0001 C CNN
+	1    11300 4900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED99
+U 1 0 A373D8E0
+P 11800 4900
+F 0 "LED99" V 11940 4720 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 12025 4720 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 11800 4900 50  0001 C CNN
+F 3 "" H 11800 4900 50  0001 C CNN
+	1    11800 4900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED107
+U 1 0 E9FB2D3F
+P 12300 4900
+F 0 "LED107" V 12440 4720 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 12525 4720 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 12300 4900 50  0001 C CNN
+F 3 "" H 12300 4900 50  0001 C CNN
+	1    12300 4900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED115
+U 1 0 34B602F8
+P 12800 4900
+F 0 "LED115" V 12940 4720 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 13025 4720 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 12800 4900 50  0001 C CNN
+F 3 "" H 12800 4900 50  0001 C CNN
+	1    12800 4900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED123
+U 1 0 F42652E7
+P 13300 4900
+F 0 "LED123" V 13440 4720 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 13525 4720 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 13300 4900 50  0001 C CNN
+F 3 "" H 13300 4900 50  0001 C CNN
+	1    13300 4900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED68
+U 1 0 439F6426
+P 9800 5300
+F 0 "LED68" V 9940 5120 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 10025 5120 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 9800 5300 50  0001 C CNN
+F 3 "" H 9800 5300 50  0001 C CNN
+	1    9800 5300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED76
+U 1 0 A4C90021
+P 10300 5300
+F 0 "LED76" V 10440 5120 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 10525 5120 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 10300 5300 50  0001 C CNN
+F 3 "" H 10300 5300 50  0001 C CNN
+	1    10300 5300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED84
+U 1 0 ED0C17A3
+P 10800 5300
+F 0 "LED84" V 10940 5120 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 11025 5120 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 10800 5300 50  0001 C CNN
+F 3 "" H 10800 5300 50  0001 C CNN
+	1    10800 5300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED92
+U 1 0 232A1853
+P 11300 5300
+F 0 "LED92" V 11440 5120 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 11525 5120 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 11300 5300 50  0001 C CNN
+F 3 "" H 11300 5300 50  0001 C CNN
+	1    11300 5300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED100
+U 1 0 1EB0C0FD
+P 11800 5300
+F 0 "LED100" V 11940 5120 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 12025 5120 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 11800 5300 50  0001 C CNN
+F 3 "" H 11800 5300 50  0001 C CNN
+	1    11800 5300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED108
+U 1 0 9A4D2690
+P 12300 5300
+F 0 "LED108" V 12440 5120 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 12525 5120 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 12300 5300 50  0001 C CNN
+F 3 "" H 12300 5300 50  0001 C CNN
+	1    12300 5300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED116
+U 1 0 CCFBAB54
+P 12800 5300
+F 0 "LED116" V 12940 5120 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 13025 5120 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 12800 5300 50  0001 C CNN
+F 3 "" H 12800 5300 50  0001 C CNN
+	1    12800 5300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED124
+U 1 0 070EA429
+P 13300 5300
+F 0 "LED124" V 13440 5120 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 13525 5120 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 13300 5300 50  0001 C CNN
+F 3 "" H 13300 5300 50  0001 C CNN
+	1    13300 5300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED69
+U 1 0 8E6F5812
+P 9800 5700
+F 0 "LED69" V 9940 5520 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 10025 5520 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 9800 5700 50  0001 C CNN
+F 3 "" H 9800 5700 50  0001 C CNN
+	1    9800 5700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED77
+U 1 0 CA95A1E3
+P 10300 5700
+F 0 "LED77" V 10440 5520 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 10525 5520 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 10300 5700 50  0001 C CNN
+F 3 "" H 10300 5700 50  0001 C CNN
+	1    10300 5700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED85
+U 1 0 1C2B68C0
+P 10800 5700
+F 0 "LED85" V 10940 5520 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 11025 5520 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 10800 5700 50  0001 C CNN
+F 3 "" H 10800 5700 50  0001 C CNN
+	1    10800 5700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED93
+U 1 0 F09E7BC8
+P 11300 5700
+F 0 "LED93" V 11440 5520 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 11525 5520 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 11300 5700 50  0001 C CNN
+F 3 "" H 11300 5700 50  0001 C CNN
+	1    11300 5700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED101
+U 1 0 D786BEEB
+P 11800 5700
+F 0 "LED101" V 11940 5520 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 12025 5520 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 11800 5700 50  0001 C CNN
+F 3 "" H 11800 5700 50  0001 C CNN
+	1    11800 5700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED109
+U 1 0 5245BDB6
+P 12300 5700
+F 0 "LED109" V 12440 5520 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 12525 5520 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 12300 5700 50  0001 C CNN
+F 3 "" H 12300 5700 50  0001 C CNN
+	1    12300 5700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED117
+U 1 0 7FD87695
+P 12800 5700
+F 0 "LED117" V 12940 5520 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 13025 5520 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 12800 5700 50  0001 C CNN
+F 3 "" H 12800 5700 50  0001 C CNN
+	1    12800 5700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED125
+U 1 0 8D7AEB7A
+P 13300 5700
+F 0 "LED125" V 13440 5520 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 13525 5520 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 13300 5700 50  0001 C CNN
+F 3 "" H 13300 5700 50  0001 C CNN
+	1    13300 5700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED70
+U 1 0 69051BE7
+P 9800 6100
+F 0 "LED70" V 9940 5920 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 10025 5920 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 9800 6100 50  0001 C CNN
+F 3 "" H 9800 6100 50  0001 C CNN
+	1    9800 6100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED78
+U 1 0 4C9E3359
+P 10300 6100
+F 0 "LED78" V 10440 5920 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 10525 5920 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 10300 6100 50  0001 C CNN
+F 3 "" H 10300 6100 50  0001 C CNN
+	1    10300 6100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED86
+U 1 0 6C1D4913
+P 10800 6100
+F 0 "LED86" V 10940 5920 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 11025 5920 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 10800 6100 50  0001 C CNN
+F 3 "" H 10800 6100 50  0001 C CNN
+	1    10800 6100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED94
+U 1 0 B112C124
+P 11300 6100
+F 0 "LED94" V 11440 5920 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 11525 5920 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 11300 6100 50  0001 C CNN
+F 3 "" H 11300 6100 50  0001 C CNN
+	1    11300 6100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED102
+U 1 0 95F13FEF
+P 11800 6100
+F 0 "LED102" V 11940 5920 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 12025 5920 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 11800 6100 50  0001 C CNN
+F 3 "" H 11800 6100 50  0001 C CNN
+	1    11800 6100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED110
+U 1 0 9FEE2317
+P 12300 6100
+F 0 "LED110" V 12440 5920 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 12525 5920 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 12300 6100 50  0001 C CNN
+F 3 "" H 12300 6100 50  0001 C CNN
+	1    12300 6100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED118
+U 1 0 D4C15B8C
+P 12800 6100
+F 0 "LED118" V 12940 5920 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 13025 5920 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 12800 6100 50  0001 C CNN
+F 3 "" H 12800 6100 50  0001 C CNN
+	1    12800 6100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED126
+U 1 0 19FDA6D1
+P 13300 6100
+F 0 "LED126" V 13440 5920 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 13525 5920 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 13300 6100 50  0001 C CNN
+F 3 "" H 13300 6100 50  0001 C CNN
+	1    13300 6100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED71
+U 1 0 82A4BF48
+P 9800 6500
+F 0 "LED71" V 9940 6320 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 10025 6320 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 9800 6500 50  0001 C CNN
+F 3 "" H 9800 6500 50  0001 C CNN
+	1    9800 6500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED79
+U 1 0 B413F672
+P 10300 6500
+F 0 "LED79" V 10440 6320 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 10525 6320 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 10300 6500 50  0001 C CNN
+F 3 "" H 10300 6500 50  0001 C CNN
+	1    10300 6500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED87
+U 1 0 3B6638BD
+P 10800 6500
+F 0 "LED87" V 10940 6320 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 11025 6320 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 10800 6500 50  0001 C CNN
+F 3 "" H 10800 6500 50  0001 C CNN
+	1    10800 6500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED95
+U 1 0 710DD811
+P 11300 6500
+F 0 "LED95" V 11440 6320 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 11525 6320 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 11300 6500 50  0001 C CNN
+F 3 "" H 11300 6500 50  0001 C CNN
+	1    11300 6500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED103
+U 1 0 488690BB
+P 11800 6500
+F 0 "LED103" V 11940 6320 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 12025 6320 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 11800 6500 50  0001 C CNN
+F 3 "" H 11800 6500 50  0001 C CNN
+	1    11800 6500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED111
+U 1 0 7D9710E9
+P 12300 6500
+F 0 "LED111" V 12440 6320 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 12525 6320 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 12300 6500 50  0001 C CNN
+F 3 "" H 12300 6500 50  0001 C CNN
+	1    12300 6500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED119
+U 1 0 1379F658
+P 12800 6500
+F 0 "LED119" V 12940 6320 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 13025 6320 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 12800 6500 50  0001 C CNN
+F 3 "" H 12800 6500 50  0001 C CNN
+	1    12800 6500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED127
+U 1 0 66A0FC41
+P 13300 6500
+F 0 "LED127" V 13440 6320 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 13525 6320 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 13300 6500 50  0001 C CNN
+F 3 "" H 13300 6500 50  0001 C CNN
+	1    13300 6500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED72
+U 1 0 6661DFA4
+P 9800 6900
+F 0 "LED72" V 9940 6720 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 10025 6720 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 9800 6900 50  0001 C CNN
+F 3 "" H 9800 6900 50  0001 C CNN
+	1    9800 6900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED80
+U 1 0 DEB529E3
+P 10300 6900
+F 0 "LED80" V 10440 6720 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 10525 6720 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 10300 6900 50  0001 C CNN
+F 3 "" H 10300 6900 50  0001 C CNN
+	1    10300 6900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED88
+U 1 0 9BFEFBD1
+P 10800 6900
+F 0 "LED88" V 10940 6720 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 11025 6720 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 10800 6900 50  0001 C CNN
+F 3 "" H 10800 6900 50  0001 C CNN
+	1    10800 6900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED96
+U 1 0 93CB5B3B
+P 11300 6900
+F 0 "LED96" V 11440 6720 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 11525 6720 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 11300 6900 50  0001 C CNN
+F 3 "" H 11300 6900 50  0001 C CNN
+	1    11300 6900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED104
+U 1 0 6DA48DCF
+P 11800 6900
+F 0 "LED104" V 11940 6720 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 12025 6720 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 11800 6900 50  0001 C CNN
+F 3 "" H 11800 6900 50  0001 C CNN
+	1    11800 6900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED112
+U 1 0 5BAF181D
+P 12300 6900
+F 0 "LED112" V 12440 6720 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 12525 6720 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 12300 6900 50  0001 C CNN
+F 3 "" H 12300 6900 50  0001 C CNN
+	1    12300 6900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED120
+U 1 0 CBDD7F3A
+P 12800 6900
+F 0 "LED120" V 12940 6720 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 13025 6720 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 12800 6900 50  0001 C CNN
+F 3 "" H 12800 6900 50  0001 C CNN
+	1    12800 6900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:LEDCHIPLED_0805 LED128
+U 1 0 27567CC7
+P 13300 6900
+F 0 "LED128" V 13440 6720 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 13525 6720 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:CHIPLED_0805" H 13300 6900 50  0001 C CNN
+F 3 "" H 13300 6900 50  0001 C CNN
+	1    13300 6900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:2NBS16-8 R1
+U 1 0 54673866
+P 6900 7700
+F 0 "R1" H 6750 8070 59  0000 L BNN
+F 1 "2NBS16-8" H 6720 7160 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:SO16" H 6900 7700 50  0001 C CNN
+F 3 "" H 6900 7700 50  0001 C CNN
+	1    6900 7700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:2NBS16-8 R2
+U 1 0 855FDFDB
+P 11400 7600
+F 0 "R2" H 11250 7970 59  0000 L BNN
+F 1 "2NBS16-8" H 11220 7060 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:SO16" H 11400 7600 50  0001 C CNN
+F 3 "" H 11400 7600 50  0001 C CNN
+	1    11400 7600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:FE08-1 SV1
+U 1 0 1FCB83CC
+P 6800 2100
+F 0 "SV1" H 6750 2630 59  0000 L BNN
+F 1 "FE08-1" H 6750 1600 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:FE08" H 6800 2100 50  0001 C CNN
+F 3 "" H 6800 2100 50  0001 C CNN
+	1    6800 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:74595D IC5
+U 1 0 ECA671C6
+P 7000 8900
+F 0 "IC5" H 6975 8875 59  0000 L BNN
+F 1 "74595D" H 6700 8200 59  0001 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:SO16" H 7000 8900 50  0001 C CNN
+F 3 "" H 7000 8900 50  0001 C CNN
+	1    7000 8900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:74595D IC7
+U 1 0 3268441D
+P 11500 8800
+F 0 "IC7" H 11475 8775 59  0000 L BNN
+F 1 "74595D" H 11200 8100 59  0001 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:SO16" H 11500 8800 50  0001 C CNN
+F 3 "" H 11500 8800 50  0001 C CNN
+	1    11500 8800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:74595D IC5
+U 2 0 ECA671CA
+P 6100 8900
+F 0 "IC5" H 6075 8875 59  0000 L BNN
+F 1 "74595D" H 5800 8200 59  0001 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:SO16" H 6100 8900 50  0001 C CNN
+F 3 "" H 6100 8900 50  0001 C CNN
+	2    6100 8900
+	1    0    0    -1  
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:74595D IC7
+U 2 0 32684411
+P 10600 8800
+F 0 "IC7" H 10575 8775 59  0000 L BNN
+F 1 "74595D" H 10300 8100 59  0001 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:SO16" H 10600 8800 50  0001 C CNN
+F 3 "" H 10600 8800 50  0001 C CNN
+	2    10600 8800
+	1    0    0    -1  
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:74595D IC3
+U 1 0 B686635D
+P 1900 5100
+F 0 "IC3" H 1875 5075 59  0000 L BNN
+F 1 "74595D" H 1600 4400 59  0001 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:SO16" H 1900 5100 50  0001 C CNN
+F 3 "" H 1900 5100 50  0001 C CNN
+	1    1900 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:74595D IC3
+U 2 0 B6866351
+P 1900 6100
+F 0 "IC3" H 1875 6075 59  0000 L BNN
+F 1 "74595D" H 1600 5400 59  0001 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:SO16" H 1900 6100 50  0001 C CNN
+F 3 "" H 1900 6100 50  0001 C CNN
+	2    1900 6100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:N-CHANNEL-MOSFET-BSS138 U$1
+U 1 0 89E33A62
+P 3700 1000
+F 0 "U$1" H 3200 1100 59  0000 L BNN
+F 1 "N-CHANNEL-MOSFET-BSS138" H 3200 1000 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:SOT23-3" H 3700 1000 50  0001 C CNN
+F 3 "" H 3700 1000 50  0001 C CNN
+	1    3700 1000
+	1    0    0    -1  
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:N-CHANNEL-MOSFET-BSS138 U$2
+U 1 0 87B7DF34
+P 3700 1900
+F 0 "U$2" H 3200 2000 59  0000 L BNN
+F 1 "N-CHANNEL-MOSFET-BSS138" H 3200 1900 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:SOT23-3" H 3700 1900 50  0001 C CNN
+F 3 "" H 3700 1900 50  0001 C CNN
+	1    3700 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:N-CHANNEL-MOSFET-BSS138 U$3
+U 1 0 6E1B97F5
+P 3700 2800
+F 0 "U$3" H 3200 2900 59  0000 L BNN
+F 1 "N-CHANNEL-MOSFET-BSS138" H 3200 2800 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:SOT23-3" H 3700 2800 50  0001 C CNN
+F 3 "" H 3700 2800 50  0001 C CNN
+	1    3700 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:N-CHANNEL-MOSFET-BSS138 U$4
+U 1 0 649D799B
+P 3700 3700
+F 0 "U$4" H 3200 3800 59  0000 L BNN
+F 1 "N-CHANNEL-MOSFET-BSS138" H 3200 3700 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:SOT23-3" H 3700 3700 50  0001 C CNN
+F 3 "" H 3700 3700 50  0001 C CNN
+	1    3700 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:N-CHANNEL-MOSFET-BSS138 U$5
+U 1 0 BCE09641
+P 3700 6300
+F 0 "U$5" H 3200 6400 59  0000 L BNN
+F 1 "N-CHANNEL-MOSFET-BSS138" H 3200 6300 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:SOT23-3" H 3700 6300 50  0001 C CNN
+F 3 "" H 3700 6300 50  0001 C CNN
+	1    3700 6300
+	1    0    0    -1  
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:N-CHANNEL-MOSFET-BSS138 U$6
+U 1 0 CE08125E
+P 3700 7100
+F 0 "U$6" H 3200 7200 59  0000 L BNN
+F 1 "N-CHANNEL-MOSFET-BSS138" H 3200 7100 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:SOT23-3" H 3700 7100 50  0001 C CNN
+F 3 "" H 3700 7100 50  0001 C CNN
+	1    3700 7100
+	1    0    0    -1  
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:N-CHANNEL-MOSFET-BSS138 U$7
+U 1 0 63C62AE7
+P 3700 7900
+F 0 "U$7" H 3200 8000 59  0000 L BNN
+F 1 "N-CHANNEL-MOSFET-BSS138" H 3200 7900 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:SOT23-3" H 3700 7900 50  0001 C CNN
+F 3 "" H 3700 7900 50  0001 C CNN
+	1    3700 7900
+	1    0    0    -1  
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:N-CHANNEL-MOSFET-BSS138 U$8
+U 1 0 59F585D1
+P 3700 8700
+F 0 "U$8" H 3200 8800 59  0000 L BNN
+F 1 "N-CHANNEL-MOSFET-BSS138" H 3200 8700 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:SOT23-3" H 3700 8700 50  0001 C CNN
+F 3 "" H 3700 8700 50  0001 C CNN
+	1    3700 8700
+	1    0    0    -1  
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:R-US_M0805 R3
+U 1 0 A00BD228
+P 2700 1400
+F 0 "R3" H 2550 1459 59  0000 L BNN
+F 1 "R-US_M0805" H 2550 1270 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:M0805" H 2700 1400 50  0001 C CNN
+F 3 "" H 2700 1400 50  0001 C CNN
+	1    2700 1400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:GND #SUPPLY01
+U 1 0 F54A36B8
+P 2700 1800
+F 0 "#SUPPLY01" H 2700 1800 50  0001 C CNN
+F 1 "GND" H 2625 1675 59  0000 L BNN
+F 2 "" H 2700 1800 50  0001 C CNN
+F 3 "" H 2700 1800 50  0001 C CNN
+	1    2700 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:R-US_M0805 R4
+U 1 0 BA9F59F4
+P 2800 2300
+F 0 "R4" H 2650 2359 59  0000 L BNN
+F 1 "R-US_M0805" H 2650 2170 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:M0805" H 2800 2300 50  0001 C CNN
+F 3 "" H 2800 2300 50  0001 C CNN
+	1    2800 2300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:R-US_M0805 R5
+U 1 0 CAE48B39
+P 2900 3200
+F 0 "R5" H 2750 3259 59  0000 L BNN
+F 1 "R-US_M0805" H 2750 3070 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:M0805" H 2900 3200 50  0001 C CNN
+F 3 "" H 2900 3200 50  0001 C CNN
+	1    2900 3200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:R-US_M0805 R6
+U 1 0 1BE7E303
+P 3000 4100
+F 0 "R6" H 2850 4159 59  0000 L BNN
+F 1 "R-US_M0805" H 2850 3970 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:M0805" H 3000 4100 50  0001 C CNN
+F 3 "" H 3000 4100 50  0001 C CNN
+	1    3000 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:GND #SUPPLY02
+U 1 0 19032892
+P 2800 2700
+F 0 "#SUPPLY02" H 2800 2700 50  0001 C CNN
+F 1 "GND" H 2725 2575 59  0000 L BNN
+F 2 "" H 2800 2700 50  0001 C CNN
+F 3 "" H 2800 2700 50  0001 C CNN
+	1    2800 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:GND #SUPPLY03
+U 1 0 4F8E092B
+P 2900 3600
+F 0 "#SUPPLY03" H 2900 3600 50  0001 C CNN
+F 1 "GND" H 2825 3475 59  0000 L BNN
+F 2 "" H 2900 3600 50  0001 C CNN
+F 3 "" H 2900 3600 50  0001 C CNN
+	1    2900 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:GND #SUPPLY05
+U 1 0 20B1DDDE
+P 3000 4500
+F 0 "#SUPPLY05" H 3000 4500 50  0001 C CNN
+F 1 "GND" H 2925 4375 59  0000 L BNN
+F 2 "" H 3000 4500 50  0001 C CNN
+F 3 "" H 3000 4500 50  0001 C CNN
+	1    3000 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:R-US_M0805 R7
+U 1 0 E67A151D
+P 3100 6700
+F 0 "R7" H 2950 6759 59  0000 L BNN
+F 1 "R-US_M0805" H 2950 6570 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:M0805" H 3100 6700 50  0001 C CNN
+F 3 "" H 3100 6700 50  0001 C CNN
+	1    3100 6700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:R-US_M0805 R8
+U 1 0 3B37D644
+P 3000 7500
+F 0 "R8" H 2850 7559 59  0000 L BNN
+F 1 "R-US_M0805" H 2850 7370 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:M0805" H 3000 7500 50  0001 C CNN
+F 3 "" H 3000 7500 50  0001 C CNN
+	1    3000 7500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:R-US_M0805 R9
+U 1 0 295F0D93
+P 2900 8300
+F 0 "R9" H 2750 8359 59  0000 L BNN
+F 1 "R-US_M0805" H 2750 8170 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:M0805" H 2900 8300 50  0001 C CNN
+F 3 "" H 2900 8300 50  0001 C CNN
+	1    2900 8300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:R-US_M0805 R10
+U 1 0 CB121278
+P 2800 9100
+F 0 "R10" H 2650 9159 59  0000 L BNN
+F 1 "R-US_M0805" H 2650 8970 59  0000 L BNN
+F 2 "diagDisplay(0805)_kyleHess2:M0805" H 2800 9100 50  0001 C CNN
+F 3 "" H 2800 9100 50  0001 C CNN
+	1    2800 9100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:GND #SUPPLY04
+U 1 0 1C9152C2
+P 3100 7100
+F 0 "#SUPPLY04" H 3100 7100 50  0001 C CNN
+F 1 "GND" H 3025 6975 59  0000 L BNN
+F 2 "" H 3100 7100 50  0001 C CNN
+F 3 "" H 3100 7100 50  0001 C CNN
+	1    3100 7100
+	1    0    0    -1  
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:GND #SUPPLY06
+U 1 0 A7CD5EB6
+P 3000 7900
+F 0 "#SUPPLY06" H 3000 7900 50  0001 C CNN
+F 1 "GND" H 2925 7775 59  0000 L BNN
+F 2 "" H 3000 7900 50  0001 C CNN
+F 3 "" H 3000 7900 50  0001 C CNN
+	1    3000 7900
+	1    0    0    -1  
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:GND #SUPPLY07
+U 1 0 2907E397
+P 2900 8700
+F 0 "#SUPPLY07" H 2900 8700 50  0001 C CNN
+F 1 "GND" H 2825 8575 59  0000 L BNN
+F 2 "" H 2900 8700 50  0001 C CNN
+F 3 "" H 2900 8700 50  0001 C CNN
+	1    2900 8700
+	1    0    0    -1  
+$EndComp
+$Comp
+L diagDisplay(0805)_kyleHess2-eagle-import:GND #SUPPLY08
+U 1 0 39566F8A
+P 2800 9500
+F 0 "#SUPPLY08" H 2800 9500 50  0001 C CNN
+F 1 "GND" H 2725 9375 59  0000 L BNN
+F 2 "" H 2800 9500 50  0001 C CNN
+F 3 "" H 2800 9500 50  0001 C CNN
+	1    2800 9500
+	1    0    0    -1  
+$EndComp
+Connection ~ 5200 6900
+$EndSCHEMATC

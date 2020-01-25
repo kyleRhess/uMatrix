@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "diagDisplay(0805)_kyleHess2-eagle-import")(type Legacy)(uri "${KIPRJMOD}/diagDisplay(0805)_kyleHess2-eagle-import.lib")(options "")(descr ""))
+)
