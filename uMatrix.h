@@ -10,7 +10,7 @@
 
 #define NUM_ROWS	8
 #define NUM_COLS	16
-#define WORDSIZE	24	//Bits
+#define WORDSIZE	24	// Bits
 
 class uMatrix {
 public:
@@ -31,7 +31,7 @@ public:
 	void 	drawRect(int height, int width);
 	void 	offsetX(int dist);
 	void 	offsetY(int dist);
-	
+
 private:
 	//latchPin connected to ST_CP of 74HC595
 	//clockPin connected to SH_CP of 74HC595
@@ -39,13 +39,17 @@ private:
 	//Output enable pin
 	int _latchPin, _clockPin, _dataPin, _OE;
 
-	_Bool stateMatrix[NUM_COLS][NUM_COLS];	//State matrix
-	unsigned short rowWords[NUM_ROWS];		//Left and right column pixel bytes
-	_Bool rowStateChange[NUM_ROWS];			//Track rows that have changed
+	// State matrix
+	_Bool stateMatrix[NUM_COLS][NUM_COLS];
+
+	//Left and right column pixel bytes
+	unsigned short rowWords[NUM_ROWS];
+
+	//Track rows that have changed
+	_Bool rowStateChange[NUM_ROWS];
 	long count, prevTime, currentTime;
 	long lastCount, charCount;
 
 };
 
 #endif // !UMATRIX_H
-

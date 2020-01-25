@@ -1,5 +1,5 @@
-//#define DEBUG
-
+ 
+ //#define DEBUG
 #include "uMatrix.h"
 #include "pinFunctions.h"
 #include "Arduino.h"
@@ -13,9 +13,14 @@ uMatrix::~uMatrix() {}
 
 void uMatrix::initial(int latchPin, int clockPin, int dataPin, int OE)
 {
-	_Bool stateMatrix[NUM_ROWS][NUM_COLS];	//State matrix
-	unsigned long rowWords[NUM_ROWS];		//Left and right column bytes
-	_Bool rowStateChange[NUM_ROWS];			//Track rows that have changed
+	// State matrix
+	_Bool stateMatrix[NUM_ROWS][NUM_COLS];
+
+	// Left and right column bytes
+	unsigned long rowWords[NUM_ROWS];
+
+	// Track rows that have changed
+	_Bool rowStateChange[NUM_ROWS];
 	prevTime = 0;
 	lastCount = charCount = 0;
 
@@ -43,7 +48,7 @@ void uMatrix::initial(int latchPin, int clockPin, int dataPin, int OE)
 		}
 	}
 
-	//SET PWM FREQ TO 31kHz (9&10)
+	// SET PWM FREQ TO 31kHz (9&10)
 	TCCR1B = TCCR1B & B11111000 | B00000001;
 	_delay_ms(200);
 	setBrightness(0);
@@ -66,7 +71,7 @@ void uMatrix::refreshMatrix()
 		//shiftOut(_dataPin, _clockPin, MSBFIRST, rowWords[i]);
 		//shiftOut(_dataPin, _clockPin, MSBFIRST, rows[i]);
 
-		/*SPI IS FASTT. Need arduino library tho*/
+		/*SPI IS FAST. Need arduino library tho*/
 		//SPI.transfer((rowWords[i]));
 		SPI.transfer16(rowWords[i]);
 		SPI.transfer(1 << i);
